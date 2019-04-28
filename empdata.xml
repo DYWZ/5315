@@ -1,123 +1,123 @@
 <?xml version="1.0" encoding="UTF-8" ?>
   <inventory>
     <data>
-      <itemname>lipstick</itemname>
-      <category>makeup</category>
-      <price>$45</price>
-      <stock_date>2019/01/25</stock_date>
-      <store>Sweetie</store>
-      <itemID>1022</itemID>
+      <title>lipstick</title>
+      <singer>makeup</singer>
+      <length>$45</length>
+      <album>2019/01/25</album>
+      <year>Sweetie</year>
+      <language>1022</language>
     </data>
     <data>
-      <itemname>foundation</itemname>
-      <category>makeup</category>
-      <price>$75</price>
-      <stock_date>2019/01/02</stock_date>
-      <store>Sweetie</store>
-      <itemID>1004</itemID>
+      <title>foundation</title>
+      <singer>makeup</singer>
+      <length>$75</length>
+      <album>2019/01/02</album>
+      <year>Sweetie</year>
+      <language>1004</language>
     </data>
     <data>
-      <itemname>denim skirt</itemname>
-      <category>clothes</category>
-      <price>$186</price>
-      <stock_date>2019/01/12</stock_date>
-      <store>LeahFashionClub</store>
-      <itemID>1562</itemID>
+      <title>denim skirt</title>
+      <singer>clothes</singer>
+      <length>$186</length>
+      <album>2019/01/12</album>
+      <year>LeahFashionClub</year>
+      <language>1562</language>
     </data>
     <data>
-      <itemname>sneaker</itemname>
-      <category>clothes</category>
-      <price>$162</price>
-      <stock_date>2019/04/11</stock_date>
-      <store>LeahFashionClub</store>
-      <itemID>1119</itemID>
+      <title>sneaker</title>
+      <singer>clothes</singer>
+      <length>$162</length>
+      <album>2019/04/11</album>
+      <year>LeahFashionClub</year>
+      <language>1119</language>
     </data>
     <data>
-      <itemname>makeup cleaner</itemname>
-      <category>clothes</category>
-      <price>$42</price>
-      <stock_date>2019/02/12</stock_date>
-      <store>Sweetie</store>
-      <itemID>1330</itemID>
+      <title>makeup cleaner</title>
+      <singer>clothes</singer>
+      <length>$42</length>
+      <album>2019/02/12</album>
+      <year>Sweetie</year>
+      <language>1330</language>
     </data>
     <data>
-      <itemname>hat</itemname>
-      <category>clothes</category>
-      <price>$84</price>
-      <stock_date>2018/11/13</stock_date>
-      <store>LeahFashionClub</store>
-      <itemID>1373</itemID>
+      <title>hat</title>
+      <singer>clothes</singer>
+      <length>$84</length>
+      <album>2018/11/13</album>
+      <year>LeahFashionClub</year>
+      <language>1373</language>
     </data>
     <data>
-      <itemname>eye liner</itemname>
-      <category>makeup</category>
-      <price>$18</price>
-      <stock_date>2018/12/29</stock_date>
-      <store>Sweetie</store>
-      <itemID>1224</itemID>
+      <title>eye liner</title>
+      <singer>makeup</singer>
+      <length>$18</length>
+      <album>2018/12/29</album>
+      <year>Sweetie</year>
+      <language>1224</language>
     </data>
     <data>
-      <itemname>socks</itemname>
-      <category>clothes</category>
-      <price>$10</price>
-      <stock_date>2019/02/18</stock_date>
-      <store>LeahFashionClub</store>
-      <itemID>1597</itemID>
+      <title>socks</title>
+      <singer>clothes</singer>
+      <length>$10</length>
+      <album>2019/02/18</album>
+      <year>LeahFashionClub</year>
+      <language>1597</language>
     </data>
     <data>
-      <itemname>lipstick</itemname>
-      <category>makeup</category>
-      <price>$45</price>
-      <stock_date>2019/03/15</stock_date>
-      <store>Sweetie</store>
-      <itemID>1360</itemID>
+      <title>lipstick</title>
+      <singer>makeup</singer>
+      <length>$45</length>
+      <album>2019/03/15</album>
+      <year>Sweetie</year>
+      <language>1360</language>
     </data>
      <data>
-      <itemname>jeans</itemname>
-      <category>clothes</category>
-      <price>$217</price>
-      <stock_date>2018/09/26</stock_date>
-      <store>LeahFashionClub</store>
-      <itemID>1290</itemID>
+      <title>jeans</title>
+      <singer>clothes</singer>
+      <length>$217</length>
+      <album>2018/09/26</album>
+      <year>LeahFashionClub</year>
+      <language>1290</language>
     </data>
      <data>
-      <itemname>brush</itemname>
-      <category>makeup</category>
-      <price>$35</price>
-      <stock_date>2019/02/06</stock_date>
-      <store>Sweetie</store>
-      <itemID>1608</itemID>
+      <title>brush</title>
+      <singer>makeup</singer>
+      <length>$35</length>
+      <album>2019/02/06</album>
+      <year>Sweetie</year>
+      <language>1608</language>
     </data>
      <data>
-      <itemname>T-shirt</itemname>
-      <category>clothes</category>
-      <price>$109</price>
-      <stock_date>2018/10/14</stock_date>
-      <store>LeahFashionClub</store>
-      <itemID>1200</itemID>
+      <title>T-shirt</title>
+      <singer>clothes</singer>
+      <length>$109</length>
+      <album>2018/10/14</album>
+      <year>LeahFashionClub</year>
+      <language>1200</language>
     </data>
      <data>
-      <itemname>foundation</itemname>
-      <category>makeup</category>
-      <price>$75</price>
-      <stock_date>2018/12/13</stock_date>
-      <store>Sweetie</store>
-      <itemID>0667</itemID>
+      <title>foundation</title>
+      <singer>makeup</singer>
+      <length>$75</length>
+      <album>2018/12/13</album>
+      <year>Sweetie</year>
+      <language>0667</language>
     </data>
     <data>
-      <itemname>denim skirt</itemname>
-      <category>clothes</category>
-      <price>$186</price>
-      <stock_date>2018/12/19</stock_date>
-      <store>LeahFashionClub</store>
-      <itemID>0814</itemID>
+      <title>denim skirt</title>
+      <singer>clothes</singer>
+      <length>$186</length>
+      <album>2018/12/19</album>
+      <year>LeahFashionClub</year>
+      <language>0814</language>
     </data>
     <data>
-      <itemname>essence</itemname>
-      <category>makeup</category>
-      <price>$342</price>
-      <stock_date>2019/03/03</stock_date>
-      <store>Sweetie</store>
-      <itemID>1497</itemID>
+      <title>essence</title>
+      <singer>makeup</singer>
+      <length>$342</length>
+      <album>2019/03/03</album>
+      <year>Sweetie</year>
+      <language>1497</language>
     </data>
   </inventory>
