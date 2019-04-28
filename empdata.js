@@ -57,68 +57,68 @@
       "language": "English"
     },
     {
-      "title": "James Bond",
-      "singer": "Accountant",
-      "length": "$170,750",
-      "album": "2011/07/25",
-      "year": "Tokyo",
-      "language": "8422"
+      "title": "Into You",
+      "singer": "Ariana Grande",
+      "length": "4:04",
+      "album": "Dangerous Woman",
+      "year": "2016",
+      "language": "English"
     },
     {
-      "title": "James Bond",
-      "singer": "Accountant",
-      "length": "$170,750",
-      "album": "2011/07/25",
-      "year": "Tokyo",
-      "language": "8422"
+      "title": "Thank U, Next",
+      "singer": "Ariana Grande",
+      "length": "3:27",
+      "album": "Thank U, Next",
+      "year": "2019",
+      "language": "English"
     },
     {
-      "title": "James Bond",
-      "singer": "Accountant",
-      "length": "$170,750",
-      "album": "2011/07/25",
-      "year": "Tokyo",
-      "language": "8422"
+      "title": "7 Rings",
+      "singer": "Ariana Grande",
+      "length": "2:58",
+      "album": "Thank U, Next",
+      "year": "2019",
+      "language": "English"
     },
     {
-      "title": "James Bond",
-      "singer": "Accountant",
-      "length": "$170,750",
-      "album": "2011/07/25",
-      "year": "Tokyo",
-      "language": "8422"
+      "title": "Bury a Friend",
+      "singer": "Billie Eilish",
+      "length": "3:13",
+      "album": "When We All Fall Asleep, Where Do We Go? ",
+      "year": "2019",
+      "language": "English"
     },  
     {
-      "title": "James Bond",
-      "singer": "Accountant",
-      "length": "$170,750",
-      "album": "2011/07/25",
-      "year": "Tokyo",
-      "language": "8422"
+      "title": "I Don't Wanna be You Anymore",
+      "singer": "Billie Eilish",
+      "length": "3:23",
+      "album": "Don't Smile at Me",
+      "year": "2017",
+      "language": "English"
     },
     {
-      "title": "Gashina",
-      "singer": "Sunmi",
-      "length": "3:00",
-      "album": "Warning",
-      "year": "2018",
+      "title": "Fools",
+      "singer": "Troye",
+      "length": "3:40",
+      "album": "Wild",
+      "year": "2015",
+      "language": "English"
+    },
+    {
+      "title": "Sing for You",
+      "singer": "EXO",
+      "length": "3:55",
+      "album": "Sing for You",
+      "year": "2015",
       "language": "Korean"
     },
     {
-      "title": "James Bond",
-      "singer": "Accountant",
-      "length": "$170,750",
-      "album": "2011/07/25",
-      "year": "Tokyo",
-      "language": "8422"
-    },
-    {
-      "title": "James Bond",
-      "singer": "Accountant",
-      "length": "$170,750",
-      "album": "2011/07/25",
-      "year": "Tokyo",
-      "language": "8422"
+      "title": "Lightsaber",
+      "singer": "EXO",
+      "length": "3:05",
+      "album": "Sing for You",
+      "year": "2015",
+      "language": "Korean"
     }
   ]
 }
