@@ -9,12 +9,12 @@
       "language": "Korean"
     },
     {
-      "title": "James Bond",
-      "singer": "Accountant",
-      "length": "$170,750",
-      "album": "2011/07/25",
-      "year": "Tokyo",
-      "language": "8422"
+      "title": "White Noise",
+      "singer": "EXO",
+      "length": "3:32",
+      "album": "Ex'Act",
+      "year": "2016",
+      "language": "Korean"
     },
     {
       "title": "James Bond",
@@ -49,12 +49,12 @@
       "language": "8422"
     },
     {
-      "title": "James Bond",
-      "singer": "Accountant",
-      "length": "$170,750",
-      "album": "2011/07/25",
-      "year": "Tokyo",
-      "language": "8422"
+      "title": "Lotto",
+      "singer": "EXO",
+      "length": "3:09",
+      "album": "Ex'Act",
+      "year": "2016",
+      "language": "Korean"
     },
     {
       "title": "James Bond",
