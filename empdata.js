@@ -98,7 +98,7 @@
     },
     {
       "title": "Fools",
-      "singer": "Troye",
+      "singer": "Troye Sivan",
       "length": "3:40",
       "album": "Wild",
       "year": "2015",
